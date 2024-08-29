@@ -1,0 +1,28 @@
+nav{
+    background-color: hsl(180, 3%, 80%);
+    border: 2px solid rgb(111, 108, 108);
+    
+}
+h1{
+    text-align: center;
+    color: #000000;
+}
+
+a{
+    color: #000000;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: hsl(0, 0%, 100%);
+}
+img{
+    padding: 3px;
+    display: inline;
+    border: 3px solid black;
+   
+}
+section{
+    border: #000000;
+    background-color: hsl(180, 3%, 80%);;
+}
+h3{
+    color: #969696 ;
+}
